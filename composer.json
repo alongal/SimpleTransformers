@@ -2,7 +2,7 @@
     "name": "alongal/simple-transformers",
     "description": "Simple Transformers",
     "license": "MIT",
-    "keywords": ["Laravel, Transformers"],
+    "keywords": ["Laravel", "Transformers"],
     "authors": [
         {
             "name": "Alon Gal",
