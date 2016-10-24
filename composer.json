@@ -1,0 +1,19 @@
+{
+    "name": "alongal/simple-transformers",
+    "description": "Simple Transformers",
+    "license": "MIT",
+    "keywords": ["Laravel, Transformers"],
+    "authors": [
+        {
+            "name": "Alon Gal",
+            "email": "alon@alongal.com.au"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "AlonGal\\SimpleTransformers\\": "src"
+        }
+    }
+}
